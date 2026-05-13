@@ -50,7 +50,4 @@ The main objective is to collect coins while avoiding obstacles and enemies befo
 * 3D Assets & Physics Engine
 
 ## How to Run
-1. Open the file .exe uploaded with this project
-
-
-* Your Name
+ Open the file .exe uploaded with this project
